@@ -1,0 +1,23 @@
+{
+  "name": "bascic-MERN-CRUD-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevLawrence/bascic-MERN-CRUD-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevLawrence/bascic-MERN-CRUD-app/issues"
+  },
+  "homepage": "https://github.com/DevLawrence/bascic-MERN-CRUD-app#readme",
+  "dependencies": {
+    "concurrently": "^4.1.0"
+  }
+}
